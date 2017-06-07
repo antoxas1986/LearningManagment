@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearningManagment.Web", "LearningManagment\LearningManagment.Web.csproj", "{F44C4874-8C2E-4AB6-9C11-1F5897700E27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearningManagment.Web", "LearningManagment.Web\LearningManagment.Web.csproj", "{F44C4874-8C2E-4AB6-9C11-1F5897700E27}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningManagment.Core", "LearningManagment.Core\LearningManagment.Core.csproj", "{32AB3056-3E3D-4A40-9F27-25679B4A2409}"
 EndProject
