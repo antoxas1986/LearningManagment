@@ -1,7 +1,7 @@
 @{
     ViewData["Title"] = "Home Page";
 }
-@*to disable server side prerender delete next line*@
+
 <app asp-prerender-module="ClientApp/dist/main-server">Loading...</app>
 
 <script src="~/dist/vendor.js" asp-append-version="true"></script>
