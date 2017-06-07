@@ -1,9 +1,9 @@
-﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp1.0</TargetFramework>
     <PreserveCompilationContext>true</PreserveCompilationContext>
-    <AssemblyName>LearningManagment.Web</AssemblyName>
+    <AssemblyName>LearningManagment</AssemblyName>
     <OutputType>Exe</OutputType>
     <PackageId>LearningManagment</PackageId>
     <RuntimeFrameworkVersion>1.0.4</RuntimeFrameworkVersion>
