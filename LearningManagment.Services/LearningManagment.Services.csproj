@@ -1,7 +1,12 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp1.1</TargetFramework>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LearningManagment.Core\LearningManagment.Core.csproj" />
+    <ProjectReference Include="..\LearningManagment.Data\LearningManagment.Data.csproj" />
+  </ItemGroup>
 
 </Project>

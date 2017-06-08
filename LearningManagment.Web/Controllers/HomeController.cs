@@ -1,8 +1,5 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using LearningManagment.Core.Constants;
 
 namespace LearningManagment.Web.Controllers
 {
@@ -10,6 +7,7 @@ namespace LearningManagment.Web.Controllers
     {
         public IActionResult Index()
         {
+            ViewBag.Title = Constants.HOME_PAGE;
             return View();
         }
 
