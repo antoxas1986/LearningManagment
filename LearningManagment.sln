@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.12
+VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearningManagment.Web", "LearningManagment.Web\LearningManagment.Web.csproj", "{F44C4874-8C2E-4AB6-9C11-1F5897700E27}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningManagment.Data", "LearningManagment.Data\LearningManagment.Data.csproj", "{4C7412AA-2089-4253-BA60-E417784231FD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningManagment.Services", "LearningManagment.Services\LearningManagment.Services.csproj", "{DB33CA67-1D96-4930-80DB-8D8CA8977F1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningManagment.UnitTests", "LearningManagment.UnitTests\LearningManagment.UnitTests.csproj", "{E1E94A79-6A9D-47AC-BC56-50192114F32D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{DB33CA67-1D96-4930-80DB-8D8CA8977F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB33CA67-1D96-4930-80DB-8D8CA8977F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB33CA67-1D96-4930-80DB-8D8CA8977F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1E94A79-6A9D-47AC-BC56-50192114F32D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1E94A79-6A9D-47AC-BC56-50192114F32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1E94A79-6A9D-47AC-BC56-50192114F32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1E94A79-6A9D-47AC-BC56-50192114F32D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
